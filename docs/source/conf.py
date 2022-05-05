@@ -1,8 +1,9 @@
-import sphinx_rtd_theme
+import sphinx-press-theme
 
 extensions = [
     
     'sphinx_rtd_theme',
 ]
 
-html_theme = "sphinx_rtd_theme"
+#html_theme = "sphinx_rtd_theme"
+html_theme = 'press'
