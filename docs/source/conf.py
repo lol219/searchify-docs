@@ -1,4 +1,4 @@
-import sphinx-press-theme
+
 """
 extensions = [
     
