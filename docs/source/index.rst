@@ -10,4 +10,5 @@ Here is the invite link : https://discord.com/oauth2/authorize?client_id=9597842
 
    This project is under active development, still in beta.
 
-
+.. toctree::
+installation
