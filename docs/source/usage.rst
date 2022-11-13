@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-To use Searchify, first invite our <a href="https://discord.com/oauth2/authorize?client_id=959784292190416906&permissions=8&scope=bot%20applications.commands">bot</a>
+To use Searchify, first invite our bot using this link : https://discord.com/oauth2/authorize?client_id=959784292190416906&permissions=8&scope=bot%20applications.commands
 
 Commands
 ----------------
